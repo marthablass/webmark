@@ -1,4 +1,4 @@
-Welcome to the Gomix Template 1
+A WEBSITE TO MANAGE YOUR WEBMARKS
 ==============================
 
-A starter project for learning Gomix
+A starter project for learning GLITCH
